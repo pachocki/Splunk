@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Splunk/static/css/main.e6c13ad2.css",
+    "main.js": "/Splunk/static/js/main.5ae23904.js",
+    "static/js/787.0175d9ec.chunk.js": "/Splunk/static/js/787.0175d9ec.chunk.js",
+    "index.html": "/Splunk/index.html",
+    "main.e6c13ad2.css.map": "/Splunk/static/css/main.e6c13ad2.css.map",
+    "main.5ae23904.js.map": "/Splunk/static/js/main.5ae23904.js.map",
+    "787.0175d9ec.chunk.js.map": "/Splunk/static/js/787.0175d9ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5ae23904.js"
+  ]
+}
