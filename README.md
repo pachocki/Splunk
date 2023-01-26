@@ -1,10 +1,9 @@
 # Splunk
 Welcome to my first React project, Splunk. This website was built to showcase what I learned while working with React, including:
-
--Hooks
--React Router
--Fetching data
--Styled Components
+Hooks
+React Router
+Fetching data
+Styled Components
 # Features
 A simple UI built using React
 The use of Hooks to manage state and side effects
